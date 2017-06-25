@@ -1,0 +1,1 @@
+/Users/cauealmeida/Jobs/Xamarin/XF.LocalDB/XF.LocalDB/XF.LocalDB.Android/obj/Debug/XF.LocalDB.Android.csproj.CoreCompileInputs.cache
